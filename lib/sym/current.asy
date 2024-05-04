@@ -1,12 +1,11 @@
 Version 4
 SymbolType CELL
-LINE Normal 0 56 4 44
-LINE Normal 0 56 -4 44
-LINE Normal -4 44 4 44
-LINE Normal 0 24 0 44
 LINE Normal 0 80 0 72
 LINE Normal 0 0 0 8
+LINE Normal 32 40 -32 40
 CIRCLE Normal -32 8 32 72
+TEXT 0 15 Center 1 -
+TEXT 1 64 Center 1 +
 WINDOW 0 24 0 Left 2
 WINDOW 3 24 80 Left 2
 SYMATTR Value I
