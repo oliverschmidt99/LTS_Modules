@@ -4,8 +4,7 @@ LINE Normal 0 24 0 88
 LINE Normal 0 96 0 88
 LINE Normal 0 16 0 24
 CIRCLE Normal -32 24 32 88
-TEXT 11 16 Center 1 +
-TEXT 11 93 Center 2 -
+TEXT 11 18 Center 1 +
 WINDOW 0 24 16 Left 2
 WINDOW 3 24 96 Left 2
 SYMATTR Value V
